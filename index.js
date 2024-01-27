@@ -4,3 +4,6 @@ const dd=122
 function name(params) {
     console.log("Hello");
 }
+function name(params) {
+    
+}
